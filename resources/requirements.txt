@@ -1,0 +1,7 @@
+babel
+falcon
+gunicorn
+openpyxl
+pendulum
+psycopg2
+requests
